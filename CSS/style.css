@@ -83,6 +83,11 @@ main{
     width: 100%;
 }
 
+/*Linked style*/
+.gameStyle{
+    text-decoration: none;
+}
+
 /* Bootstrap navbar overrides */
 .navbar-dark .navbar-brand {
     color: #fff !important;
